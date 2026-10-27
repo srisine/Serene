@@ -20,11 +20,19 @@ Designed in KiCad.
 
 Enclosure and structural parts modeled in Fusion 360.
 
+V1 (Had a few mistakes) 
+
 <img width="1920" height="722" alt="caseRender1" src="https://github.com/user-attachments/assets/ec842513-048b-4a69-bca0-22babaff7916" />
 
 <img width="1920" height="722" alt="caseRender2" src="https://github.com/user-attachments/assets/2320554a-1fe2-45a2-9f1a-231ff411f3fa" />
 
 <img width="1920" height="722" alt="caseRender3" src="https://github.com/user-attachments/assets/494e1dff-1661-4d60-bf9c-7e042fc85e8d" />
+
+V2 (Fixed Buttons not going down, USB port too small, added display holder and added screw threads)
+
+<img width="1920" height="722" alt="caseNew1" src="https://github.com/user-attachments/assets/9ed767ab-3358-49d9-a8dc-1dbd6f5acaf3" />
+
+<img width="1920" height="722" alt="casenew2" src="https://github.com/user-attachments/assets/ab55fee0-577c-42e7-b2fa-8fed49eff75b" />
 
 ---
 
